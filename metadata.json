@@ -1,0 +1,6 @@
+{
+  "name": "CivicVote — Live Election Portal",
+  "description": "Live shortlisted election and voting portal with real-time tallies, animated progress metrics, clear leader indicators, and verified ballot submission.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
